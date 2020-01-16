@@ -1,3 +1,5 @@
 sealed-secrets:
   secretName: hogehoge
 secretName: aaaaaa
+aliassecrets:
+  secretName: ffffffyyy
