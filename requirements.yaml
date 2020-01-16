@@ -1,5 +1,5 @@
 dependencies:
-- name: sealed-secrets
+- name: sealed-secrets # If name contains `-` (hyphen), need an alias which doesn't contain any `-`
   version: 1.6.1
   repository: https://kubernetes-charts.storage.googleapis.com
-  alias: aliassecrets
+  alias: sealedSecrets
